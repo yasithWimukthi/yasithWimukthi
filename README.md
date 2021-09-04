@@ -24,3 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasithwimukthi&show_icons=true&locale=en&layout=compact" alt="yasithwimukthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasithwimukthi&show_icons=true&locale=en" alt="yasithwimukthi" /></p>
+
+[![Yasith's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasithWimukthi&theme=react-dark&custom_title=Yasith's%20github%20activity%20graph)](https://github.com/yasithWimukthi/github-readme-activity-graph)
+
