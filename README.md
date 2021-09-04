@@ -28,5 +28,5 @@
  
 
 
-[![Yasith's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasithWimukthi&theme=react-dark&custom_title=Yasith's%20Github%20Ststs)](https://github.com/yasithWimukthi/github-readme-activity-graph)
+[![Yasith's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasithWimukthi&theme=react-dark&custom_title=Yasith's%20Github%20Stats)](https://github.com/yasithWimukthi/github-readme-activity-graph)
 
