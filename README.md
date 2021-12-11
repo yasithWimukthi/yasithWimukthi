@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithwimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="yasithwimukthi" /> </p>
 
-- 🌱 I’m currently learning **VueJs and AWS.**
+- 🌱 I’m currently learning **Docker and Kubernetes.**
 
 - 👯 I’m looking to collaborate on **MERN projects.**
 
