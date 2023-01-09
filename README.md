@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes.**
 
-- 👯 I’m looking to collaborate on **MERN projects.**
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 💬 Ask me about **React,Java**
+- 💬 Ask me about **Javascript,Java**
 
 - 📫 How to reach me **wimukthiyasith@gmail.com**
 
