@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm yasith wimukthi.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I am Yasith Wimukthi,Software Engineering Undergraduate Student at SLIIT.</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithwimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="yasithwimukthi" /> </p>
 
