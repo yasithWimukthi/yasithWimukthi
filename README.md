@@ -1,13 +1,17 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Yasith Wimukthi Banner"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Yasith Wimukthi
+
+<div align="center">
+
+### ☕ Java Backend Engineer • Problem Solver
+
+*Building reliable backend systems, healthcare integrations, and scalable APIs.*
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yasithWimukthi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/yasithWimukthi?label=Followers&style=social" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Yasith Wimukthi</h1>
-<h3 align="center">Java Backend Engineer • HL7 Integration Specialist • Spring Boot Developer</h3>
-
-<p align="center">
-  Passionate about building reliable backend systems, healthcare integrations, and scalable APIs.
-</p>
+</div>
 
 ---
 
@@ -20,21 +24,19 @@ public class Yasith {
 
     String[] expertise = {
         "Spring Boot",
-        "HL7 Integration",
-        "REST APIs",
-        "Oracle SQL"
+        "REST APIs and Micro Services",
+        "Databases"
     };
 
-    String currentlyLearning = "Next.js & Cloud Architecture";
+    String currentlyLearning = "Go Lang & Cloud Architecture";
 
     boolean lovesCleanCode = true;
 }
 ```
 
-- 🏥 Backend Engineer focused on Healthcare Systems
-- 🔄 Experienced in HL7, API Integration & Data Migration
-- 🌱 Learning Next.js, System Design & Cloud
-- 🚀 Building **BestRoofSeal** as a global affiliate platform
+- 🏥 Backend Engineer focused on ERP
+- 🔄 Experienced in API Integration & Data Migration
+- 🌱 Learning Go Lang, System Design & Cloud
 
 ---
 
@@ -63,9 +65,10 @@ public class Yasith {
 
 | Project | Description |
 |---------|-------------|
-| 🏥 HL7 Engine | ADT message processing & normalization |
-| 🔄 Migration Framework | High-volume API → Database pipeline |
-| 🏠 BestRoofSeal | SEO-driven affiliate website in Next.js |
+| ⚙️ Backend Architecture | Building scalable Java & Spring Boot applications |
+| 🔄 Data Migration Framework | High-volume API to database migration pipeline |
+| 🏠 BestRoofSeal | SEO-driven affiliate website built with Next.js |
+| ☁️ System Design | Learning cloud-native architecture & distributed systems |
 
 ---
 
